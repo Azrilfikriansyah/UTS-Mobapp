@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "139228644287",
+    "project_id": "ma-1101204083",
+    "storage_bucket": "ma-1101204083.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139228644287:android:0b1873594b1f6265ead70a",
+        "android_client_info": {
+          "package_name": "ma_1101204083.telu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb2uD9YAJjcwTilp4bXGV7-kiFBTK5TP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
